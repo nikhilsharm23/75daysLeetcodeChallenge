@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
