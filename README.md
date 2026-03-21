@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
