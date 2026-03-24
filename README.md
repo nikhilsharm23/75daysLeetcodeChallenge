@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
