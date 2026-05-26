@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
