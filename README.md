@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0707-design-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
