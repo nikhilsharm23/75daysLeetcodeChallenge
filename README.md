@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [3046-split-the-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sliding Window
 |  |
 | ------- |
