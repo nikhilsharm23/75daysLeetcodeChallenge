@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3046-split-the-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3046-split-the-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
