@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0202-happy-number) |
 ## Tree
