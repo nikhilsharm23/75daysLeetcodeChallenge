@@ -189,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
