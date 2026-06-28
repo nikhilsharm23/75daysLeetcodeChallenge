@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [3046-split-the-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3046-split-the-array) |
 ## Quickselect
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
