@@ -1,0 +1,33 @@
+class Solution {
+    public boolean canConstruct(String ransomNote, String magazine) {
+        HashMap<Character , Integer> need = new HashMap<>();
+        HashMap<Character , Integer> have = new HashMap<>();
+
+        // calculate the freq of rasomNote 
+        for(int i = 0; i < ransomNote.length(); i++){
+            char ch  = ransomNote.charAt(i);
+            need.put(ch , need.getOrDefault(ch , 0 ) + 1);
+        }
+
+        // calculate the freq of magazine 
+
+        for(int i = 0; i < magazine.length(); i++){
+            char ch = magazine.charAt(i);
+            have.put(ch , have.getOrDefault(ch , 0) + 1);
+        }
+
+        // compare
+
+        for( char ch : need.keySet()){
+            int fneed =  need.get(ch);
+            int fhave = have.getOrDefault(ch , 0);
+
+
+            if(fhave < fneed){
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
