@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0707-design-linked-list) |
