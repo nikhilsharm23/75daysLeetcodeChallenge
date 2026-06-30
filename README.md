@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 ## Prefix Sum
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0409-longest-palindrome) |
+| [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
