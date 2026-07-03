@@ -1,38 +1,40 @@
 class Solution {
     public int search(int[] nums, int target) {
-
-        int low = 0;
-        int high = nums.length - 1;
+        int n = nums.length;
+        int low = 0, high = n - 1;
 
         while (low <= high) {
+            int guess = low + (high - low) / 2;
 
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] == target) {
-                return mid;
+            if (nums[guess] == target) {
+                return guess;
             }
 
-            // Left half sorted
-            if (nums[low] <= nums[mid]) {
-
-                if (target >= nums[low] && target < nums[mid]) {
-                    high = mid - 1;
+            // Logic for handling the rotated array
+            if (nums[guess] > nums[n - 1]) {
+                // Part 1: Left side of the rotation point
+                if (nums[guess] < target) {
+                    low = guess + 1; // Search right
                 } else {
-                    low = mid + 1;
+                    if (nums[0] > target) {
+                        low = guess + 1; // Search right
+                    } else {
+                        high = guess - 1; // Search left
+                    }
                 }
-            }
-
-            // Right half sorted
-            else {
-
-                if (target > nums[mid] && target <= nums[high]) {
-                    low = mid + 1;
+            } else {
+                // Part 2: Right side of the rotation point
+                if (nums[guess] > target) {
+                    high = guess - 1;
                 } else {
-                    high = mid - 1;
+                    if (nums[n - 1] < target) {
+                        high = guess - 1;
+                    } else {
+                        low = guess + 1;
+                    }
                 }
             }
         }
-
         return -1;
     }
 }
