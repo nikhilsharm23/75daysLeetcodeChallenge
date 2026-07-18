@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0707-design-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0707-design-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
