@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
