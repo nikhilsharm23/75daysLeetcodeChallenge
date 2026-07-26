@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
