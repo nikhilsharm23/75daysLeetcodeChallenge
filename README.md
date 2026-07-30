@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
