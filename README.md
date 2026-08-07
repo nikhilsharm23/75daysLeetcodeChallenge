@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0086-partition-list) |
@@ -386,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
