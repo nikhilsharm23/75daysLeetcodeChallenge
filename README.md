@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0905-sort-array-by-parity) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
