@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
