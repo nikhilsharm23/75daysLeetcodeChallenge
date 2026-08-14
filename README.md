@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0143-reorder-list) |
+| [0509-fibonacci-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
