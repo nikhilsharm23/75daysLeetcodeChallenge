@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0258-add-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
