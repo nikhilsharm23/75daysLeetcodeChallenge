@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -461,4 +464,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
