@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0134-gas-station) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
