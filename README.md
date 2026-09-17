@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
@@ -592,4 +596,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
