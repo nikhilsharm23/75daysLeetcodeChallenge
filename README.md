@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -571,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -604,4 +611,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
