@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
@@ -576,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -611,5 +618,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
