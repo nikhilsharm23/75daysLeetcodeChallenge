@@ -626,4 +626,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0778-swim-in-rising-water) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
