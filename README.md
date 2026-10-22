@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1991-find-the-middle-index-in-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3046-split-the-array) |
 ## Hash Table
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
