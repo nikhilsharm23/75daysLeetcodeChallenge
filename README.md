@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
+| [1710-maximum-units-on-a-truck](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0881-boats-to-save-people) |
+| [1710-maximum-units-on-a-truck](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Dynamic Programming
 |  |
