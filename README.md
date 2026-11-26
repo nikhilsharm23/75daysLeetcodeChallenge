@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
+| [3360-stone-removal-game](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
