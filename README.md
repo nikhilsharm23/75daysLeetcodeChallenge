@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/nikhilsharm23/75daysLeetcodeChallenge/tree/master/0767-reorganize-string) |
